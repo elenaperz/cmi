@@ -1,4 +1,4 @@
-## (Nombre del proyecto)
+## COCINA CON LAS SUPERNENAS
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
@@ -8,38 +8,35 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : Cocina con las Supernenas
 
 **Web:**   (url github.io)
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Elena Pérez Delgado
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Este proyecto tiene como objetivo principal el entretenimiento para niños a traves de un juego de cocina con personajes tan cococidos como son Petalo, Burbuja y Cactus.
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  Juego
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : 
 
-(insertar imágenes a resolucion de 100px alto)
+![IMG_3935](https://github.com/elenaperz/elenaperz.github.io/assets/134587880/2d80c7b4-8ba2-41e5-847f-ef480cac565f)
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Resolución:** 800x600px 
 
-**Tamaño proyecto:** 14MB 
+**Probado en:** MS Edge y Safari
+
+**Tamaño proyecto:** MB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 26/05/2023
 
-**Medios** (donde se tiene presencia relacionada):
+**Medios**:
 
-- Github:
-- Twitter
-- Instagram
+- Github
 
-
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
 
 # 2. Memoria del proyecto 
 
@@ -144,3 +141,4 @@ Este  proyecto es interesante porque ...
 https://creativecommons.org/licenses/?lang=es
 
 Mayo 2023
+
